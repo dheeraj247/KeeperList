@@ -16,7 +16,7 @@ CSS,
 JavaScript (ES6+), 
 React Hooks (useState)
 
-Installation & Setup
+# Installation & Setup
 To run the project locally:
 
 1️⃣ Clone this repository: git clone https: //github.com/your-username/keeper-app.git
