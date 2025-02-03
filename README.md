@@ -2,18 +2,18 @@
 A simple note-taking app built with React that allows users to add and delete notes. Inspired by Google Keep.
 
 # Features
-1.Add notes with titles and content
-2. Delete notes with a single click
-3. Responsive and clean UI
-4. Built using React, CSS, and JavaScript
+  ## 1.Add notes with titles and content
+  ## 2. Delete notes with a single click
+  ## 3. Responsive and clean UI
+  ## 4. Built using React, CSS, and JavaScript
 
 # Live Demo
-🔗 Keeper App Demo (Replace with your deployed link if hosted on GitHub Pages, Vercel, or Netlify)
+🔗 Keeper App Demo : https://dheeraj247.github.io/KeeperList/
 
 # Technologies Used
-React.js
-CSS
-JavaScript (ES6+)
+React.js, 
+CSS, 
+JavaScript (ES6+), 
 React Hooks (useState)
 
 Installation & Setup
